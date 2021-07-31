@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+    background-color:red;
+}
+
+
+h1{
+    font-size: 25;
+    color: blue;
+    background-color: yellow;
+}
+
+}
+
+.links {
+    display: inline;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: aqua;
+    font-family: Roboto;
+    font-size: 20px;
+}
+
+.links:hover {
+    background-color: darkblue;
+    font-size: 25px;
+}
+.links a{
+    color: aqua !important;
+}
+
+a {
+    text-decoration: none;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+   
+#Red{
+    height:1500px;
+    width: 1500px;
+}
+img{
+    height: 500px;
+    width: 500px;
+}
